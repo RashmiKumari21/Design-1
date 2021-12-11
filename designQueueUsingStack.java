@@ -1,5 +1,6 @@
 Time Complexity O(1)
   
+Ammortized time complexty O(n)+O(1)+O(1)+O(1)
   
   class MyQueue {
     
